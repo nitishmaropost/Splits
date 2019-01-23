@@ -14,6 +14,7 @@
 		BF94027121F8670500EDA559 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF94027021F8670500EDA559 /* Assets.xcassets */; };
 		BF94027421F8670500EDA559 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF94027221F8670500EDA559 /* LaunchScreen.storyboard */; };
 		BF94027F21F8670600EDA559 /* SplitsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF94027E21F8670600EDA559 /* SplitsTests.swift */; };
+		BF94028A21F8681000EDA559 /* Images+Names+Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF94028921F8681000EDA559 /* Images+Names+Colors.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		BF94027A21F8670600EDA559 /* SplitsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SplitsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF94027E21F8670600EDA559 /* SplitsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplitsTests.swift; sourceTree = "<group>"; };
 		BF94028021F8670600EDA559 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF94028921F8681000EDA559 /* Images+Names+Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Images+Names+Colors.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				BF94027021F8670500EDA559 /* Assets.xcassets */,
 				BF94027221F8670500EDA559 /* LaunchScreen.storyboard */,
 				BF94027521F8670500EDA559 /* Info.plist */,
+				BF94028921F8681000EDA559 /* Images+Names+Colors.swift */,
 			);
 			path = Splits;
 			sourceTree = "<group>";
@@ -202,6 +205,7 @@
 			files = (
 				BF94026C21F8670400EDA559 /* DetailViewController.swift in Sources */,
 				BF94026A21F8670400EDA559 /* MasterViewController.swift in Sources */,
+				BF94028A21F8681000EDA559 /* Images+Names+Colors.swift in Sources */,
 				BF94026821F8670400EDA559 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
